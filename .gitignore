@@ -1,0 +1,41 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.log
+*.idea/
+out/
+target/
+build/
+bin/
+
+### Gradle ###
+.gradle
+gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+**/build/
+**/out/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Logs ###
+*.log
+logs/
+*.out
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Other ###
+*.tmp
+*.swp
+
